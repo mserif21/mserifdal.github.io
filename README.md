@@ -27,7 +27,7 @@ Bu projede şunlar yer almaktadır:
 
 ## 📧 Bana Ulaşın
 Eğer web sitesi hakkında geri bildirim veya öneriniz varsa, benimle iletişime geçmekten çekinmeyin.  
-Email: [ornek@mail.com](mailto:mserifdal@mail.com)
+Email: [mserifdal@mail.com](mailto:mserifdal@mail.com)
 
 ---
 
